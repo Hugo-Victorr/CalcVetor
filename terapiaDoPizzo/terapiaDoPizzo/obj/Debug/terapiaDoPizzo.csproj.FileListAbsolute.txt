@@ -1,0 +1,8 @@
+C:\Users\hugok\OneDrive\Área de Trabalho\terapiaDoPizzo\terapiaDoPizzo\obj\Debug\terapiaDoPizzo.csproj.AssemblyReference.cache
+C:\Users\hugok\OneDrive\Área de Trabalho\terapiaDoPizzo\terapiaDoPizzo\obj\Debug\terapiaDoPizzo.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugok\OneDrive\Área de Trabalho\terapiaDoPizzo\terapiaDoPizzo\obj\Debug\terapiaDoPizzo.csproj.CoreCompileInputs.cache
+C:\Users\hugok\OneDrive\Área de Trabalho\terapiaDoPizzo\terapiaDoPizzo\bin\Debug\terapiaDoPizzo.exe.config
+C:\Users\hugok\OneDrive\Área de Trabalho\terapiaDoPizzo\terapiaDoPizzo\bin\Debug\terapiaDoPizzo.exe
+C:\Users\hugok\OneDrive\Área de Trabalho\terapiaDoPizzo\terapiaDoPizzo\bin\Debug\terapiaDoPizzo.pdb
+C:\Users\hugok\OneDrive\Área de Trabalho\terapiaDoPizzo\terapiaDoPizzo\obj\Debug\terapiaDoPizzo.exe
+C:\Users\hugok\OneDrive\Área de Trabalho\terapiaDoPizzo\terapiaDoPizzo\obj\Debug\terapiaDoPizzo.pdb
